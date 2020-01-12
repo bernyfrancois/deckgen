@@ -61,10 +61,10 @@ class Player {
                     b3.forEach((symbol, index) => {
                         let symbol4 = symbol;
                             let card = {
-                                symbol1: symbol1,
-                                symbol2: symbol2,
-                                symbol3: symbol3,
-                                symbol4: symbol4
+                                symbole1: symbol1,
+                                symbole2: symbol2,
+                                symbole3: symbol3,
+                                symbole4: symbol4
                             }
                             this.deck.push(card)
                     } )
